@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<CrmLoginData>
+	<logindata id="set1">
+		<username>admin</username>
+		<password>admin</password>
+		<accountName>UmaDevi</accountName>
+		<accountEmail>uma@test.com</accountEmail>
+		<billingStreet>abcdStreet</billingStreet>
+		<billingCity>Hyderabad</billingCity>
+		<billingState>Telangana</billingState>
+		<billingPostalCode>511111</billingPostalCode>
+		<billingCountry>India</billingCountry>
+		<accountWebsite>www.mysite.com</accountWebsite>
+		<shippingStreet>saitempleStreet</shippingStreet>
+		<shippingCity>Scendrabad</shippingCity>
+		<shippingState>Telangana</shippingState>
+		<shippingPostalCode>511234</shippingPostalCode>
+		<shippingCountry>India</shippingCountry>
+		<name>Mrs.</name>
+		<contactFirstName>Uma</contactFirstName>
+	    <contactLastName>Devi</contactLastName>
+	    <contactEmail>uma@test.com</contactEmail>
+	    <contactAddressStreet>hanumanStreet</contactAddressStreet>
+	    <contactAddressCity>Hyderabad</contactAddressCity>
+	    <contactAddressState>Telangana</contactAddressState>
+	    <contactAddressPostalCode>500018</contactAddressPostalCode>
+	    <contactAddressCountry>India</contactAddressCountry>
+	    <contactDescription>NearSaibabaTempleRoad</contactDescription>
+	    <contactMobilenumber>8074034860</contactMobilenumber> 
+     </logindata>
+     
+     <logindata id="set2">
+     
+     <accountName>Advaitha</accountName>
+		<accountEmail>Advi@test.com</accountEmail>
+		<billingStreet>RRRStreet</billingStreet>
+		<billingCity>Hyderabad</billingCity>
+		<billingState>Telangana</billingState>
+		<billingPostalCode>511111</billingPostalCode>
+		<billingCountry>India</billingCountry>
+		<accountWebsite>www.mysite.com</accountWebsite>
+		<shippingStreet>DugrgatempleStreet</shippingStreet>
+		<shippingCity>Scendrabad</shippingCity>
+		<shippingState>Telangana</shippingState>
+		<shippingPostalCode>511234</shippingPostalCode>
+		<shippingCountry>India</shippingCountry>
+     
+     </logindata>
+</CrmLoginData>

@@ -1,0 +1,3 @@
+2020-07-12 21:23:29,834 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-07-12 21:23:33,604 INFO  [AccountService] User inserted account name successfully 
+2020-07-12 21:23:33,848 INFO  [AccountService] Üser inserted accout email 

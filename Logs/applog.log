@@ -1,0 +1,293 @@
+2020-07-12 21:26:23,899 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-07-12 21:26:26,248 INFO  [AccountService] User inserted account name successfully 
+2020-07-12 21:26:26,502 INFO  [AccountService] Üser inserted accout email 
+    2020-07-15 17:46:51,824 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-07-15 17:46:54,613 INFO  [AccountService] User inserted account name successfully 
+2020-07-15 17:46:54,721 INFO  [AccountService] Üser inserted accout email 
+2020-07-18 20:03:02,806 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-07-18 20:03:06,726 INFO  [AccountService] User inserted account name successfully 
+2020-07-18 20:03:07,003 INFO  [AccountService] Üser inserted accout email 
+2020-07-18 20:21:49,736 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-07-18 20:21:53,466 INFO  [AccountService] User inserted account name successfully 
+2020-07-18 20:21:53,715 INFO  [AccountService] Üser inserted accout email 
+2020-07-25 18:10:27,482 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-07-25 18:10:31,443 INFO  [AccountService] User inserted account name successfully 
+2020-07-25 18:10:31,896 INFO  [AccountService] Üser inserted accout email 
+2020-07-25 18:23:37,370 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-07-25 18:23:40,853 INFO  [AccountService] User inserted account name successfully 
+2020-07-25 18:23:41,260 INFO  [AccountService] Üser inserted accout email 
+2020-07-25 18:23:44,539 INFO  [AccountService] User created Account successfully 
+2020-07-25 19:19:11,228 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-07-25 19:19:14,504 INFO  [AccountService] User inserted account name successfully 
+2020-07-25 19:19:14,637 INFO  [AccountService] Üser inserted accout email 
+2020-07-25 19:19:16,001 INFO  [AccountService] User created Account successfully 
+2020-07-25 19:48:42,447 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-07-25 19:48:42,809 INFO  [AccountService] Äccount page has opened 
+2020-07-25 19:48:44,460 INFO  [AccountService] User inserted account name successfully 
+2020-07-25 19:48:44,599 INFO  [AccountService] Üser inserted accout email 
+2020-07-25 19:48:45,987 INFO  [AccountService] User created Account successfully 
+2020-07-26 20:28:53,306 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-07-26 20:28:54,476 INFO  [AccountService] Äccount page has opened 
+2020-07-26 20:28:57,246 INFO  [AccountService] User inserted account name successfully 
+2020-07-26 20:28:57,463 INFO  [AccountService] Üser inserted accout email 
+2020-07-26 20:28:59,095 INFO  [AccountService] User created Account successfully 
+2020-07-26 20:33:48,916 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-07-26 20:33:49,951 INFO  [AccountService] Äccount page has opened 
+2020-07-26 20:33:51,710 INFO  [AccountService] User inserted account name successfully 
+2020-07-26 20:33:51,873 INFO  [AccountService] Üser inserted accout email 
+2020-07-26 20:33:53,624 INFO  [AccountService] User created Account successfully 
+2020-08-01 14:48:01,798 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-01 14:48:03,453 INFO  [AccountService] Account page has opened 
+2020-08-01 14:48:06,024 INFO  [AccountService] User inserted account name successfully 
+2020-08-01 14:48:06,244 INFO  [AccountService] User inserted accout email 
+2020-08-01 14:48:08,436 INFO  [AccountService] User created Account successfully 
+2020-08-01 14:49:43,705 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-01 14:49:44,209 INFO  [AccountService] Account page has opened 
+2020-08-01 14:49:45,033 INFO  [AccountService] User inserted account name successfully 
+2020-08-01 14:49:45,222 INFO  [AccountService] User inserted accout email 
+2020-08-01 14:49:47,289 INFO  [AccountService] User created Account successfully 
+2020-08-01 15:08:40,086 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-01 15:08:41,082 INFO  [AccountService] Account page has opened 
+2020-08-01 15:08:44,159 INFO  [AccountService] User inserted account name successfully 
+2020-08-01 15:08:44,413 INFO  [AccountService] User inserted accout email 
+2020-08-01 15:08:46,532 INFO  [AccountService] User created Account successfully 
+2020-08-01 15:24:10,718 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-01 15:24:11,309 INFO  [AccountService] Account page has opened 
+2020-08-01 15:24:12,424 INFO  [AccountService] User inserted account name successfully 
+2020-08-01 15:24:12,640 INFO  [AccountService] User inserted accout email 
+2020-08-01 15:24:14,805 INFO  [AccountService] User created Account successfully 
+2020-08-01 19:38:49,002 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-01 19:38:49,708 INFO  [AccountService] Account page has opened 
+2020-08-01 19:38:50,518 INFO  [AccountService] User inserted account name successfully 
+2020-08-01 19:38:50,636 INFO  [AccountService] User inserted accout email 
+2020-08-01 19:38:51,865 INFO  [AccountService] User created Account successfully 
+2020-08-01 19:42:56,729 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-01 19:42:57,433 INFO  [AccountService] Account page has opened 
+2020-08-01 19:42:58,181 INFO  [AccountService] User inserted account name successfully 
+2020-08-01 19:42:58,335 INFO  [AccountService] User inserted accout email 
+2020-08-01 19:43:06,161 INFO  [AccountService] User created Account successfully 
+2020-08-01 19:48:23,718 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-01 19:48:24,052 INFO  [AccountService] Account page has opened 
+2020-08-01 19:48:24,894 INFO  [AccountService] User inserted account name successfully 
+2020-08-01 19:48:25,063 INFO  [AccountService] User inserted accout email 
+2020-08-01 19:48:26,545 INFO  [AccountService] User created Account successfully 
+2020-08-01 19:48:45,106 INFO  [ContactsService] User clicks Contacts link in Dashbaord page 
+2020-08-01 19:50:05,099 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-01 19:50:05,877 INFO  [AccountService] Account page has opened 
+2020-08-01 19:50:07,134 INFO  [AccountService] User inserted account name successfully 
+2020-08-01 19:50:07,275 INFO  [AccountService] User inserted accout email 
+2020-08-01 19:50:08,751 INFO  [AccountService] User created Account successfully 
+2020-08-01 19:50:08,865 INFO  [ContactsService] User clicks Contacts link in Dashbaord page 
+2020-08-01 19:56:54,440 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-01 19:56:54,756 INFO  [AccountService] Account page has opened 
+2020-08-01 19:56:55,791 INFO  [AccountService] User inserted account name successfully 
+2020-08-01 19:56:55,913 INFO  [AccountService] User inserted accout email 
+2020-08-01 19:56:57,169 INFO  [AccountService] User created Account successfully 
+2020-08-01 20:15:07,845 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-01 20:15:08,324 INFO  [AccountService] Account page has opened 
+2020-08-01 20:15:09,694 INFO  [AccountService] User inserted account name successfully 
+2020-08-01 20:15:09,908 INFO  [AccountService] User inserted accout email 
+2020-08-01 20:15:11,822 INFO  [AccountService] User created Account successfully 
+2020-08-01 20:37:52,933 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-01 20:37:53,488 INFO  [AccountService] Account page has opened 
+2020-08-01 20:37:54,319 INFO  [AccountService] User inserted account name successfully 
+2020-08-01 20:37:54,464 INFO  [AccountService] User inserted accout email 
+2020-08-01 20:37:55,848 INFO  [AccountService] User created Account successfully 
+2020-08-01 20:47:31,662 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-01 20:47:32,250 INFO  [AccountService] Account page has opened 
+2020-08-01 20:47:33,457 INFO  [AccountService] User inserted account name successfully 
+2020-08-01 20:47:33,608 INFO  [AccountService] User inserted accout email 
+2020-08-01 20:47:35,170 INFO  [AccountService] User created Account successfully 
+2020-08-02 19:11:13,765 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-02 19:11:14,569 INFO  [AccountService] Account page has opened 
+2020-08-02 19:11:15,934 INFO  [AccountService] User inserted account name successfully 
+2020-08-02 19:11:16,046 INFO  [AccountService] User inserted accout email 
+2020-08-02 19:15:18,759 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-02 19:15:19,300 INFO  [AccountService] Account page has opened 
+2020-08-02 19:15:19,764 INFO  [AccountService] User inserted account name successfully 
+2020-08-02 19:15:19,897 INFO  [AccountService] User inserted accout email 
+2020-08-02 19:16:25,091 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-02 19:16:25,396 INFO  [AccountService] Account page has opened 
+2020-08-02 19:16:25,976 INFO  [AccountService] User inserted account name successfully 
+2020-08-02 19:16:26,097 INFO  [AccountService] User inserted accout email 
+2020-08-02 19:17:56,477 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-02 19:17:57,034 INFO  [AccountService] Account page has opened 
+2020-08-02 19:17:58,893 INFO  [AccountService] User inserted account name successfully 
+2020-08-02 19:17:59,010 INFO  [AccountService] User inserted accout email 
+2020-08-02 19:20:55,252 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-02 19:20:56,047 INFO  [AccountService] Account page has opened 
+2020-08-02 19:20:57,666 INFO  [AccountService] User inserted account name successfully 
+2020-08-02 19:20:57,784 INFO  [AccountService] User inserted accout email 
+2020-08-02 19:25:44,846 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-02 19:25:45,179 INFO  [AccountService] Account page has opened 
+2020-08-02 19:25:47,129 INFO  [AccountService] User inserted account name successfully 
+2020-08-02 19:25:47,243 INFO  [AccountService] User inserted accout email 
+2020-08-02 19:29:13,995 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-02 19:29:14,477 INFO  [AccountService] Account page has opened 
+2020-08-02 19:29:15,043 INFO  [AccountService] User inserted account name successfully 
+2020-08-02 19:29:15,162 INFO  [AccountService] User inserted accout email 
+2020-08-02 21:28:38,280 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-02 21:28:38,683 INFO  [AccountService] Account page has opened 
+2020-08-02 21:28:39,487 INFO  [AccountService] User inserted account name successfully 
+2020-08-02 21:28:39,802 INFO  [AccountService] User inserted accout email 
+2020-08-08 19:11:46,110 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-08 19:11:47,465 INFO  [AccountService] Account page has opened 
+2020-08-08 19:11:50,146 INFO  [AccountService] User inserted account name successfully 
+2020-08-08 19:11:50,394 INFO  [AccountService] User inserted accout email 
+2020-08-08 19:17:14,674 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-08 19:17:15,586 INFO  [AccountService] Account page has opened 
+2020-08-08 19:17:16,775 INFO  [AccountService] User inserted account name successfully 
+2020-08-08 19:17:17,008 INFO  [AccountService] User inserted accout email 
+2020-08-08 19:17:19,297 INFO  [AccountService] User created Account successfully 
+2020-08-08 19:45:53,243 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-08 19:45:53,962 INFO  [AccountService] Account page has opened 
+2020-08-08 19:45:55,274 INFO  [AccountService] User inserted account name successfully 
+2020-08-08 19:45:55,597 INFO  [AccountService] User inserted accout email 
+2020-08-08 19:45:57,999 INFO  [AccountService] User created Account successfully 
+2020-08-08 20:00:38,077 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-08 20:00:38,716 INFO  [AccountService] Account page has opened 
+2020-08-08 20:00:39,914 INFO  [AccountService] User inserted account name successfully 
+2020-08-08 20:00:40,202 INFO  [AccountService] User inserted accout email 
+2020-08-08 20:00:42,542 INFO  [AccountService] User created Account successfully 
+2020-08-08 20:01:39,153 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-08 20:01:40,281 INFO  [AccountService] Account page has opened 
+2020-08-08 20:01:42,182 INFO  [AccountService] User inserted account name successfully 
+2020-08-08 20:01:42,528 INFO  [AccountService] User inserted accout email 
+2020-08-08 20:01:44,998 INFO  [AccountService] User created Account successfully 
+2020-08-08 20:15:17,301 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-08 20:15:18,432 INFO  [AccountService] Account page has opened 
+2020-08-08 20:15:19,872 INFO  [AccountService] User inserted account name successfully 
+2020-08-08 20:15:20,129 INFO  [AccountService] User inserted accout email 
+2020-08-08 20:15:22,482 INFO  [AccountService] User created Account successfully 
+2020-08-08 20:17:52,856 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-08 20:17:55,326 INFO  [AccountService] Account page has opened 
+2020-08-08 20:17:57,254 INFO  [AccountService] User inserted account name successfully 
+2020-08-08 20:17:57,499 INFO  [AccountService] User inserted accout email 
+2020-08-08 20:17:59,785 INFO  [AccountService] User created Account successfully 
+2020-08-08 20:20:46,919 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-08 20:20:47,784 INFO  [AccountService] Account page has opened 
+2020-08-08 20:20:48,989 INFO  [AccountService] User inserted account name successfully 
+2020-08-08 20:20:49,227 INFO  [AccountService] User inserted accout email 
+2020-08-08 20:20:51,607 INFO  [AccountService] User created Account successfully 
+2020-08-08 20:23:36,357 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-08 20:23:37,739 INFO  [AccountService] Account page has opened 
+2020-08-08 20:23:40,308 INFO  [AccountService] User inserted account name successfully 
+2020-08-08 20:23:40,566 INFO  [AccountService] User inserted accout email 
+2020-08-08 20:23:43,315 INFO  [AccountService] User created Account successfully 
+2020-08-09 03:45:57,771 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-09 03:45:58,359 INFO  [AccountService] Account page has opened 
+2020-08-09 03:45:59,295 INFO  [AccountService] User inserted account name successfully 
+2020-08-09 03:45:59,593 INFO  [AccountService] User inserted accout email 
+2020-08-09 03:46:01,907 INFO  [AccountService] User created Account successfully 
+2020-08-09 03:46:50,044 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-09 03:46:50,639 INFO  [AccountService] Account page has opened 
+2020-08-09 03:46:51,744 INFO  [AccountService] User inserted account name successfully 
+2020-08-09 03:46:51,952 INFO  [AccountService] User inserted accout email 
+2020-08-09 03:46:54,133 INFO  [AccountService] User created Account successfully 
+2020-08-09 03:51:06,560 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-09 03:51:07,583 INFO  [AccountService] Account page has opened 
+2020-08-09 03:51:08,934 INFO  [AccountService] User inserted account name successfully 
+2020-08-09 03:51:09,173 INFO  [AccountService] User inserted accout email 
+2020-08-09 03:51:11,313 INFO  [AccountService] User created Account successfully 
+2020-08-09 19:15:32,846 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-09 19:15:33,975 INFO  [AccountService] Account page has opened 
+2020-08-09 19:15:34,738 INFO  [AccountService] User inserted account name successfully 
+2020-08-09 19:15:34,880 INFO  [AccountService] User inserted accout email 
+2020-08-09 19:15:36,252 INFO  [AccountService] User created Account successfully 
+2020-08-09 19:16:26,166 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-09 19:16:26,600 INFO  [AccountService] Account page has opened 
+2020-08-09 19:16:28,134 INFO  [AccountService] User inserted account name successfully 
+2020-08-09 19:16:28,282 INFO  [AccountService] User inserted accout email 
+2020-08-09 19:16:29,719 INFO  [AccountService] User created Account successfully 
+2020-08-09 19:37:52,335 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-09 19:37:52,884 INFO  [AccountService] Account page has opened 
+2020-08-09 19:37:53,423 INFO  [AccountService] User inserted account name successfully 
+2020-08-09 19:37:53,560 INFO  [AccountService] User inserted accout email 
+2020-08-09 19:37:54,892 INFO  [AccountService] User created Account successfully 
+2020-08-09 19:45:46,546 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-09 19:45:46,938 INFO  [AccountService] Account page has opened 
+2020-08-09 19:45:47,652 INFO  [AccountService] User inserted account name successfully 
+2020-08-09 19:45:47,795 INFO  [AccountService] User inserted accout email 
+2020-08-09 19:45:49,201 INFO  [AccountService] User created Account successfully 
+2020-08-09 20:06:12,435 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-09 20:06:12,773 INFO  [AccountService] Account page has opened 
+2020-08-09 20:06:13,452 INFO  [AccountService] User inserted account name successfully 
+2020-08-09 20:06:13,595 INFO  [AccountService] User inserted accout email 
+2020-08-09 20:06:15,060 INFO  [AccountService] User created Account successfully 
+2020-08-09 20:09:21,040 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-09 20:09:21,678 INFO  [AccountService] Account page has opened 
+2020-08-09 20:09:22,891 INFO  [AccountService] User inserted account name successfully 
+2020-08-09 20:09:23,033 INFO  [AccountService] User inserted accout email 
+2020-08-09 20:09:24,367 INFO  [AccountService] User created Account successfully 
+2020-08-09 20:14:15,798 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-09 20:14:16,162 INFO  [AccountService] Account page has opened 
+2020-08-09 20:14:17,975 INFO  [AccountService] User inserted account name successfully 
+2020-08-09 20:14:18,125 INFO  [AccountService] User inserted accout email 
+2020-08-09 20:14:19,609 INFO  [AccountService] User created Account successfully 
+2020-08-09 20:32:23,501 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-09 20:32:24,025 INFO  [AccountService] Account page has opened 
+2020-08-09 20:32:24,865 INFO  [AccountService] User inserted account name successfully 
+2020-08-09 20:32:25,029 INFO  [AccountService] User inserted accout email 
+2020-08-09 20:32:26,560 INFO  [AccountService] User created Account successfully 
+2020-08-09 20:34:45,566 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-09 20:34:46,148 INFO  [AccountService] Account page has opened 
+2020-08-09 20:34:46,769 INFO  [AccountService] User inserted account name successfully 
+2020-08-09 20:34:46,942 INFO  [AccountService] User inserted accout email 
+2020-08-09 20:34:48,426 INFO  [AccountService] User created Account successfully 
+2020-08-09 20:48:27,863 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-09 20:48:29,244 INFO  [AccountService] Account page has opened 
+2020-08-09 20:48:31,240 INFO  [AccountService] User inserted account name successfully 
+2020-08-09 20:48:31,574 INFO  [AccountService] User inserted accout email 
+2020-08-09 20:48:34,020 INFO  [AccountService] User created Account successfully 
+2020-08-09 20:54:00,906 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-09 20:54:01,552 INFO  [AccountService] Account page has opened 
+2020-08-09 20:54:02,743 INFO  [AccountService] User inserted account name successfully 
+2020-08-09 20:54:03,006 INFO  [AccountService] User inserted accout email 
+2020-08-09 20:54:05,476 INFO  [AccountService] User created Account successfully 
+2020-08-10 20:23:12,405 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-10 20:23:13,254 INFO  [AccountService] Account page has opened 
+2020-08-10 20:23:14,601 INFO  [AccountService] User inserted account name successfully 
+2020-08-10 20:23:14,715 INFO  [AccountService] User inserted accout email 
+2020-08-10 20:23:15,905 INFO  [AccountService] User created Account successfully 
+2020-08-10 20:24:04,441 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-10 20:24:05,089 INFO  [AccountService] Account page has opened 
+2020-08-10 20:24:06,376 INFO  [AccountService] User inserted account name successfully 
+2020-08-10 20:24:06,505 INFO  [AccountService] User inserted accout email 
+2020-08-10 20:24:07,781 INFO  [AccountService] User created Account successfully 
+2020-08-10 20:26:29,790 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-10 20:26:30,313 INFO  [AccountService] Account page has opened 
+2020-08-10 20:26:32,283 INFO  [AccountService] User inserted account name successfully 
+2020-08-10 20:26:32,426 INFO  [AccountService] User inserted accout email 
+2020-08-10 20:26:33,605 INFO  [AccountService] User created Account successfully 
+2020-08-11 21:53:47,545 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-11 21:53:48,688 INFO  [AccountService] Account page has opened 
+2020-08-11 21:53:50,302 INFO  [AccountService] User inserted account name successfully 
+2020-08-11 21:53:50,547 INFO  [AccountService] User inserted accout email 
+2020-08-11 21:53:52,036 INFO  [AccountService] User created Account successfully 
+2020-08-11 21:54:32,380 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-11 21:54:33,076 INFO  [AccountService] Account page has opened 
+2020-08-11 21:54:34,584 INFO  [AccountService] User inserted account name successfully 
+2020-08-11 21:54:34,716 INFO  [AccountService] User inserted accout email 
+2020-08-11 21:54:36,323 INFO  [AccountService] User created Account successfully 
+2020-08-11 21:56:11,386 INFO  [ContactsService] User clicks Contacts link in Dashbaord page 
+2020-08-11 21:59:11,177 INFO  [ContactsService] User clicks Contacts link in Dashbaord page 
+2020-08-11 22:12:05,415 INFO  [ContactsService] User clicks Contacts link in Dashbaord page 
+2020-08-12 12:54:07,047 INFO  [ContactsService] User clicks Contacts link in Dashbaord page 
+2020-08-12 13:45:02,917 INFO  [ContactsService] User clicks Contacts link in Dashbaord page 
+2020-08-12 18:59:15,643 INFO  [ContactsService] User clicks Contacts link in Dashbaord page 
+2020-08-12 19:10:31,651 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-12 19:10:32,080 INFO  [AccountService] Account page has opened 
+2020-08-12 19:10:33,623 INFO  [AccountService] User inserted account name successfully 
+2020-08-12 19:10:33,855 INFO  [AccountService] User inserted accout email 
+2020-08-12 19:10:36,210 INFO  [AccountService] User created Account successfully 
+2020-08-12 19:10:42,544 INFO  [ContactsService] User clicks Contacts link in Dashbaord page 
+2020-08-13 02:30:32,038 INFO  [ContactsService] User clicks Contacts link in Dashbaord page 
+2020-08-13 03:47:08,661 INFO  [ContactsService] User clicks Contacts link in Dashbaord page 
+2020-08-13 03:49:48,789 INFO  [ContactsService] User clicks Contacts link in Dashbaord page 
+2020-08-13 03:55:18,876 INFO  [ContactsService] User clicks Contacts link in Dashbaord page 
+2020-08-13 04:08:55,088 INFO  [ContactsService] User clicks Contacts link in Dashbaord page 
+2020-08-15 19:59:52,737 INFO  [AccountService] User clicks Accounts link in Dashbaord page 
+2020-08-15 19:59:53,763 INFO  [AccountService] Account page has opened 
+2020-08-15 19:59:56,295 INFO  [AccountService] User inserted account name successfully 
+2020-08-15 19:59:56,435 INFO  [AccountService] User inserted accout email 
+2020-08-15 19:59:57,612 INFO  [AccountService] User created Account successfully 
